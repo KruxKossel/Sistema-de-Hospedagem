@@ -16,8 +16,8 @@ Pessoa p6 = new(nome: "Hóspede 2");
 
 hospedesP.Add(p1);
 hospedesP.Add(p2);
-hospedesD.Add(p3);
 
+hospedesD.Add(p3);
 hospedesD.Add(p4);
 hospedesD.Add(p5);
 hospedesD.Add(p6);

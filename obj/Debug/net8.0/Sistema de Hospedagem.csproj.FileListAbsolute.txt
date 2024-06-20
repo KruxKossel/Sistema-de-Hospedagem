@@ -15,3 +15,4 @@ D:\C# projetos\Sistema de Hospedagem\obj\Debug\net8.0\refint\Sistema de Hospedag
 D:\C# projetos\Sistema de Hospedagem\obj\Debug\net8.0\Sistema de Hospedagem.pdb
 D:\C# projetos\Sistema de Hospedagem\obj\Debug\net8.0\Sistema de Hospedagem.genruntimeconfig.cache
 D:\C# projetos\Sistema de Hospedagem\obj\Debug\net8.0\ref\Sistema de Hospedagem.dll
+D:\C# projetos\Sistema de Hospedagem\obj\Debug\net8.0\Sistema de Hospedagem.sourcelink.json

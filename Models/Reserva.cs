@@ -8,14 +8,14 @@ namespace Sistema_de_Hospedagem.Models
     public class Reserva(int diasReservados)
     {
 
-        public List<Pessoa> Hospedes { get; set; }
-        public Suite Suite { get; set; }
+        public List<Pessoa>? Hospedes { get; set; }
+        public Suite? Suite { get; set; }
         public int DiasReservados { get; set; } = diasReservados;
 
 
         public void CadastrarHospedes(List<Pessoa> hospedes){
 
-                if (Suite.Capacidade <= hospedes.Count)
+                if (Suite?.Capacidade <= hospedes.Count)
                 {
                     Hospedes = hospedes;
                 }
@@ -32,21 +32,31 @@ namespace Sistema_de_Hospedagem.Models
 
         public int ObterQuantidadeHospedes(){
 
-            return Hospedes.Count;
+            if (Hospedes == null)
+            {
+                return 0;
+            }
+            else
+            {
+                return Hospedes.Count;
+            }
         }
 
         public decimal CalcularValorDiaria(){
 
-
-            decimal valor = DiasReservados * Suite.ValorDiaria;
-
-            if (DiasReservados >= 10)
+            if (Suite == null) { return 0; }
+            else
             {
-                decimal desconto = valor * 0.1m; // 10% do valor
-                valor -= desconto;
-            }
+                decimal valor = DiasReservados * Suite.ValorDiaria;
 
-            return valor;
+                if (DiasReservados >= 10)
+                {
+                    decimal desconto = valor * 0.1m; // 10% do valor
+                    valor -= desconto;
+                }
+
+                return valor;
+            }
         }
         
     }
