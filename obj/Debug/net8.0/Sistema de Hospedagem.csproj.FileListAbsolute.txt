@@ -1,0 +1,17 @@
+D:\C# projetos\Sistema de Hospedagem\bin\Debug\net8.0\Sistema de Hospedagem.exe
+D:\C# projetos\Sistema de Hospedagem\bin\Debug\net8.0\Sistema de Hospedagem.deps.json
+D:\C# projetos\Sistema de Hospedagem\bin\Debug\net8.0\Sistema de Hospedagem.runtimeconfig.json
+D:\C# projetos\Sistema de Hospedagem\bin\Debug\net8.0\Sistema de Hospedagem.dll
+D:\C# projetos\Sistema de Hospedagem\bin\Debug\net8.0\Sistema de Hospedagem.pdb
+D:\C# projetos\Sistema de Hospedagem\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\C# projetos\Sistema de Hospedagem\obj\Debug\net8.0\Sistema de Hospedagem.csproj.AssemblyReference.cache
+D:\C# projetos\Sistema de Hospedagem\obj\Debug\net8.0\Sistema de Hospedagem.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# projetos\Sistema de Hospedagem\obj\Debug\net8.0\Sistema de Hospedagem.AssemblyInfoInputs.cache
+D:\C# projetos\Sistema de Hospedagem\obj\Debug\net8.0\Sistema de Hospedagem.AssemblyInfo.cs
+D:\C# projetos\Sistema de Hospedagem\obj\Debug\net8.0\Sistema de Hospedagem.csproj.CoreCompileInputs.cache
+D:\C# projetos\Sistema de Hospedagem\obj\Debug\net8.0\Sistema de Hospedagem.csproj.CopyComplete
+D:\C# projetos\Sistema de Hospedagem\obj\Debug\net8.0\Sistema de Hospedagem.dll
+D:\C# projetos\Sistema de Hospedagem\obj\Debug\net8.0\refint\Sistema de Hospedagem.dll
+D:\C# projetos\Sistema de Hospedagem\obj\Debug\net8.0\Sistema de Hospedagem.pdb
+D:\C# projetos\Sistema de Hospedagem\obj\Debug\net8.0\Sistema de Hospedagem.genruntimeconfig.cache
+D:\C# projetos\Sistema de Hospedagem\obj\Debug\net8.0\ref\Sistema de Hospedagem.dll
